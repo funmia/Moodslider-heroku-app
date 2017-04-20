@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <programmeList>
+ <programme id="1">
+ <name>The Intern</name>
+ <image>images/the_intern.jpg</image>
+ <mood>Agitated</mood>
+ </programme>
+
+ <programme id="2">
+ <name>Alice in Wonderland</name>
+ <image>images/alice_in_wonderland.jpg</image>
+ <mood>Calm</mood>
+ </programme>
+
+ <programme id="3">
+ <name>Central Intelligence</name>
+ <image>images/central_intelligence.jpg</image>
+ <mood>Happy</mood>
+ </programme>
+
+ <programme id="4">
+ <name>Jungle Book</name>
+ <image>images/junglebook.jpg</image>
+ <mood>Sad</mood>
+ </programme>
+
+ <programme id="5">
+ <name>Dirty 30</name>
+ <image>images/Dirty30.jpg</image>
+ <mood>Tired</mood>
+ </programme>
+
+ <programme id="6">
+ <name>Dead pool</name>
+ <image>images/deadpool.jpg</image>
+ <mood>Wide Awake</mood>
+ </programme>
+
+ <programme id="7">
+ <name>Finding Dory</name>
+ <image>images/finding_dory.jpg</image>
+ <mood>Scared</mood>
+ </programme>
+
+ <programme id="8">
+ <name>Avatar</name>
+ <image>images/avatar.jpg</image>
+ <mood>Fearless</mood>
+ </programme>
+
+ <programme id="9">
+ <name>Kids in Love</name>
+ <image>images/kids_in_love.jpg</image>
+ <mood>Agitated</mood>
+ </programme>
+
+ <programme id="10">
+ <name>MaMa</name>
+ <image>images/mama.jpg</image>
+ <mood>Calm</mood>
+ </programme>
+
+ <programme id="11">
+ <name>Planes</name>
+ <image>images/planes.jpg</image>
+ <mood>Happy</mood>
+ </programme>
+
+ <programme id="12">
+ <name>Ride Along 2</name>
+ <image>images/ride_along.jpg</image>
+ <mood>Sad</mood>
+ </programme>
+
+ <programme id="13">
+ <name>Star Trek Beyond</name>
+ <image>images/star_trek_beyond.jpg</image>
+ <mood>Tired</mood>
+ </programme>
+
+ <programme id="14">
+ <name>The Boss</name>
+ <image>images/the_boss.jpg</image>
+ <mood>Wide Awake</mood>
+ </programme>
+
+ <programme id="15">
+ <name>The Night Before</name>
+ <image>images/the_night_before.jpg</image>
+ <mood>Scared</mood>
+ </programme>
+
+ <programme id="16">
+ <name>Zootropolis</name>
+ <image>images/zootropolis.jpg</image>
+ <mood>Fearless</mood>
+ </programme>
+ <programme id="17">
+ <name>Joy</name>
+ <image>images/joy.jpg</image>
+ <mood>Agitated</mood>
+ </programme>
+
+ <programme id="18">
+ <name>Lullaby</name>
+ <image>images/lullaby.jpg</image>
+ <mood>Calm</mood>
+ </programme>
+
+ <programme id="19">
+ <name>Demolition</name>
+ <image>images/demolition.jpg</image>
+ <mood>Happy</mood>
+ </programme>
+
+ <programme id="20">
+ <name>Music and Lyrics</name>
+ <image>images/musiclyrics.jpg</image>
+ <mood>Sad</mood>
+ </programme>
+
+ <programme id="21">
+ <name>Bruce Almighty</name>
+ <image>images/bruce_almighty.jpg</image>
+ <mood>Tired</mood>
+ </programme>
+
+ <programme id="22">
+ <name>Garden State</name>
+ <image>images/garden_state.jpg</image>
+ <mood>Wide Awake</mood>
+ </programme>
+
+ <programme id="23">
+ <name>Risen</name>
+ <image>images/risen.jpg</image>
+ <mood>Scared</mood>
+ </programme>
+
+ <programme id="24">
+ <name>GhostBusters</name>
+ <image>images/ghostbusters.jpg</image>
+ <mood>Fearless</mood>
+ </programme>
+ <programme id="25">
+ <name>London Town</name>
+ <image>images/london_town.jpg</image>
+ <mood>Agitated</mood>
+ </programme>
+
+ <programme id="26">
+ <name>5 To 7</name>
+ <image>images/5_to_7.jpg</image>
+ <mood>Calm</mood>
+ </programme>
+
+ <programme id="27">
+ <name>Concussion</name>
+ <image>images/concussion.jpg</image>
+ <mood>Happy</mood>
+ </programme>
+
+ <programme id="28">
+ <name>John Carter</name>
+ <image>images/john_carter.jpg</image>
+ <mood>Sad</mood>
+ </programme>
+
+ <programme id="29">
+ <name>Up for </name>
+ <image>images/up_for_love.jpg</image>
+ <mood>Tired</mood>
+ </programme>
+
+ <programme id="30">
+ <name>The Surprise</name>
+ <image>images/the_surprise.jpg</image>
+ <mood>Wide Awake</mood>
+ </programme>
+
+ <programme id="31">
+ <name>The Bible</name>
+ <image>images/bible.jpg</image>
+ <mood>Scared</mood>
+ </programme>
+
+ <programme id="32">
+ <name>Frankenstein</name>
+ <image>images/frankenstein.jpg</image>
+ <mood>Fearless</mood>
+ </programme>
+ <programme id="33">
+ <name>Awakenings</name>
+ <image>images/awakenings.jpg</image>
+ <mood>Agitated</mood>
+ </programme>
+
+ <programme id="34">
+ <name>The Squeeze</name>
+ <image>images/the_squeeze.jpg</image>
+ <mood>Calm</mood>
+ </programme>
+
+ <programme id="35">
+ <name>Dad's Army</name>
+ <image>images/dad's-army.jpg</image>
+ <mood>Happy</mood>
+ </programme>
+
+ <programme id="36">
+ <name>The Communer</name>
+ <image>images/the_commune.jpg</image>
+ <mood>Sad</mood>
+ </programme>
+
+ <programme id="37">
+ <name>Summertime</name>
+ <image>images/summertime.jpg</image>
+ <mood>Tired</mood>
+ </programme>
+
+ <programme id="38">
+ <name>Get A Job</name>
+ <image>images/get_a_job.jpg</image>
+ <mood>Wide Awake</mood>
+ </programme>
+
+ <programme id="39">
+ <name>The Lion King</name>
+ <image>images/lion_king.jpg</image>
+ <mood>Scared</mood>
+ </programme>
+
+ <programme id="40">
+ <name>The Darkness</name>
+ <image>images/the_darkness.jpg</image>
+ <mood>Fearless</mood>
+ </programme>
+
+
+</programmeList>

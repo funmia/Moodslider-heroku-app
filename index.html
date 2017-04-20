@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+  <head>
+    <meta chaset="UTF-8"/>
+    <title>Moodslider | Sky.com</title>
+    <link rel="stylesheet" href= "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href= "index.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="http://goessner.net/download/prj/jsonxml/xml2json.js"></script>
+  </head>
+  <body>
+    <div class= "page">
+      <header>
+        <div class=menu-container>
+          <div class="logo"><img src="images/sky_logo.png" style="width: 300px"/></div>
+          <div class="menu">
+            <div class="title"><img src="images/sky_cinema.png" style="width: 600px" /></div>
+            <div class="uploader"><h3>Moodslider</h3><input type="file" id="selectfile"></div>
+          </div>
+        </div>
+      </header>
+
+<!---The sliders---->
+
+      <div class="slider-section">
+        <div class= "slider slider1">
+          <h3>Agitated</h3>
+            <input data-left="Agitated" data-right="Calm" type="range"/>
+          <h3>Calm</h3>
+        </div>
+        <div class= "slider slider2">
+          <h3>Happy</h3>
+            <input data-left="Happy" data-right="Sad" type="range"/>
+          <h3>Sad</h3>
+        </div>
+        <div class="slider slider4">
+          <h3>Tired</h3>
+            <input data-left="Tired" data-right="Wide Awake" type="range"/>
+          <h3>Wide Awake</h3>
+        </div>
+        <div class="slider slider4">
+          <h3>Scared</h3>
+            <input data-left="Scared" data-right="Fearless" type="range"/>
+          <h3>Fearless</h3>
+        </div>
+      </div>
+
+<!---The programme slots---->
+
+      <div class= "movie-gallery">
+        <div class="col-lg-2 col-md-offset-1">
+          <div class="thumbnail">
+            <a href="#">
+              <img class="programme-image" src="https://placehold.it/300?text=No+Content" alt="#" style="width: 100%">
+            </div>
+              <div class="caption">
+                <p class="programme-name">No Content</p>
+              </div>
+            </a>
+        </div>
+    <div class="col-lg-2">
+      <div class="thumbnail">
+        <a href="#">
+          <img class="programme-image" src="https://placehold.it/300?text=No+Content" alt="#" style="width: 100%">
+        </div>
+          <div class="caption">
+            <p class="programme-name">No Content</p>
+          </div>
+        </a>
+    </div>
+    <div class="col-lg-2">
+      <div class="thumbnail">
+        <a href="#">
+          <img class="programme-image" src="https://placehold.it/300?text=No+Content" alt="#" style="width: 100%">
+        </div>
+          <div class="caption">
+            <p class="programme-name">No Content</p>
+          </div>
+          </a>
+      </div>
+      <div class="col-lg-2">
+        <div class="thumbnail">
+          <a href="#">
+            <img class="programme-image" src="https://placehold.it/300?text=No+Content" alt="#" style="width: 100%">
+          </div>
+            <div class="caption">
+              <p class="programme-name">No Content</p>
+            </div>
+          </a>
+      </div>
+      <div class="col-lg-2">
+        <div class="thumbnail">
+          <a href="#">
+            <img class="programme-image" src="https://placehold.it/300?text=No+Content" alt="#" style="width: 100%">
+          </div>
+            <div class="caption">
+              <p class="programme-name">No Content</p>
+            </div>
+          </a>
+      </div>
+    </div>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>
